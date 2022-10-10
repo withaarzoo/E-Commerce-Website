@@ -12,4 +12,6 @@
 
 💙 Join the channel to see more videos like this. [Code with Aarzoo](https://www.youtube.com/channel/UCSm-oKFIIqTHnXnVQoS5TOQ)
 
-![preview img](/preview.png)
+## Preview
+
+![preview (3)](https://user-images.githubusercontent.com/59678435/194881872-a2b92e6c-ef33-438e-9325-2801facbe068.png)
