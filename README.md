@@ -3,7 +3,7 @@
 ## [Watch it on youtube](https://youtu.be/kSoen4NJnY0)
 ### Responsive-E-Commerce-Website---AroNus
 
-- Responsive Clothing Landing Page Using HTML CSS & JavaScript.
+- Responsive Clothing Landing Page Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Includes a dark and light mode.
 - Smooth scrolling in each section.
