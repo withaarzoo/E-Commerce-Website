@@ -1,4 +1,4 @@
-# Responsive-E-Commerce-Website---AroNus
+# E-Commerce Website
 
 ## [Watch it on youtube](https://youtu.be/kSoen4NJnY0)
 ### Responsive-E-Commerce-Website---AroNus
